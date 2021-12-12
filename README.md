@@ -14,7 +14,7 @@ Work section included Image of application.
 
 Contact section icon with link. NOTE when clicked on any icon on skill section icon it will take you to each of their own website.
 
-when resize the page to 780px each section will stack on top of each other.
+when resize the page to 680px each section will stack on top of each other.
 
 That all my portolio can do hope you enjoy for all new learner.
 
