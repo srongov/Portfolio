@@ -1,6 +1,6 @@
 Hello, I'm Hak from Pennsylvania and I learning coding at Penn bootcamp. I just started taking class and and my first porfolio assigment.
 
-This Portolio using only HTML and CSS with no Javascript.
+This Portfolio using only HTML and CSS with no Javascript.
 
 Simple Portolio just a few introduction about my self where I came, skill , contact with a few image included.
 
